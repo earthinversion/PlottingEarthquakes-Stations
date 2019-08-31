@@ -3,3 +3,6 @@
 2. The color of the earthquakes is based on the depth.
 3. Stations are plotted using the blue triangles.
 
+<p align="center">
+<img src="EQ_distr.png">
+</p>
